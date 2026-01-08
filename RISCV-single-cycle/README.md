@@ -51,9 +51,10 @@ License
 <MIT/BSD/Apache‑2.0>
 
 Maintainer
-Aakarsh Singh — contact in profile.
+kushagra kartikeye 
 
 vivado -mode tcl -source fpga/build.tcl # generate bitstream
 
 Program board; 7‑seg shows Fibonacci; LEDs map in XDC.
+
 
